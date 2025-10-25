@@ -23,7 +23,7 @@ features:
     button:
       enable: True
       label: "Tìm hiểu thêm"
-      link: "#"
+      link: "https://lequockhanh1710.github.io/lequockhanh.github.io/blog/post-1/"
 
   - title: "Spyware và các nguy cơ tiềm tàn"
     image: "/images/spyware.png"
@@ -37,7 +37,7 @@ features:
     button:
       enable: true
       label: "Tìm hiểu thêm"
-      link: "https://github.com/zeon-studio/hugoplate"
+      link: "https://lequockhanh1710.github.io/lequockhanh.github.io/blog/post-2/"
 
   - title: "1 số phần mềm phòng chống Spyware/Malware tốt hiện nay"
     image: "/images/antispyware.png"
@@ -51,5 +51,5 @@ features:
     button:
       enable: true
       label: "Tìm hiểu thêm"
-      link: ""
+      link: "https://lequockhanh1710.github.io/lequockhanh.github.io/blog/post-3/"
 ---
