@@ -11,43 +11,45 @@ banner:
 
 # Features
 features:
-  - title: "What's Included in Hugoplate"
-    image: "/images/service-1.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
+  - title: "Nghiên cứu về Malware trong QR code"
+    image: "/images/QR.png"
+    content: "Nghiên cứu sâu về các phương thức mà QR Code bị lợi dụng để phát tán phần mềm độc hại (Malware), cùng với các dấu hiệu nhận biết."
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
+      - "Các kiểu tấn công phổ biến qua QR Code (QRishing, mã nhúng độc hại, v.v.)"
+      - "Quy trình phân tích mã QR để phát hiện URL hoặc dữ liệu độc hại"
+      - "Công cụ và kỹ thuật dùng để giải mã và kiểm tra độ an toàn của QR Code"
+      - "Phân loại các loại Malware được phân phối thông qua phương thức này"
+      - "Nâng cao nhận thức về các rủi ro bảo mật tiềm ẩn"
     button:
-      enable: false
-      label: "Get Started Now"
+      enable: True
+      label: "Tìm hiểu thêm"
       link: "#"
 
-  - title: "Discover the Key Features Of Hugo"
-    image: "/images/service-2.png"
-    content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
+  - title: "Spyware và các nguy cơ tiềm tàn"
+    image: "/images/spyware.png"
+    content: "Tìm hiểu về cơ chế hoạt động, các loại Spyware phổ biến và những rủi ro nghiêm trọng chúng gây ra đối với quyền riêng tư và bảo mật thông tin cá nhân/doanh nghiệp."
     bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "Các loại Spyware chính: Keyloggers, Adware, Trojan, và System Monitors"
+      - "Cách thức Spyware xâm nhập và thu thập dữ liệu người dùng"
+      - "Hậu quả nghiêm trọng của việc rò rỉ thông tin cá nhân và tài chính"
+      - "Các dấu hiệu nhận biết thiết bị đang bị nhiễm Spyware"
+      - "Chiến lược và công cụ hiệu quả để phát hiện, loại bỏ và phòng chống Spyware"
     button:
       enable: true
-      label: "Get Started Now"
+      label: "Tìm hiểu thêm"
       link: "https://github.com/zeon-studio/hugoplate"
 
-  - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
-    image: "/images/service-3.png"
-    content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
+  - title: "1 số phần mềm phòng chống Spyware/Malware tốt hiện nay"
+    image: "/images/antispyware.png"
+    content: "Giới thiệu và đánh giá các phần mềm bảo mật hàng đầu được khuyên dùng, giúp người dùng cá nhân và tổ chức bảo vệ hệ thống khỏi các mối đe dọa phần mềm gián điệp và độc hại."
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "Đánh giá các phần mềm Antivirus có khả năng chống Spyware mạnh mẽ"
+      - "Tính năng và ưu điểm nổi bật của từng phần mềm phòng chống"
+      - "Hướng dẫn lựa chọn phần mềm bảo mật phù hợp với nhu cầu sử dụng"
+      - "Cách thiết lập và sử dụng phần mềm để tối ưu hóa khả năng bảo vệ"
+      - "Các biện pháp phòng ngừa bổ sung ngoài việc cài đặt phần mềm"
     button:
-      enable: false
-      label: ""
+      enable: true
+      label: "Tìm hiểu thêm"
       link: ""
 ---
